@@ -1,0 +1,28 @@
+libmsgbuff (0.60.0) unstable; urgency=low
+
+  * debian: version is now (correctly) read into changelog
+  * Severe bug on msgbuff_copy() fixed
+  * Not needed functions dropped
+
+ -- Rodolfo Giometti <giometti@linux.it>  Thu, 03 Nov 2011 13:33:03 +0100
+
+libmsgbuff (0.51.1) unstable; urgency=low
+
+  * Invalid dependencies fixed
+
+ -- Rodolfo Giometti <giometti@linux.it>  Mon, 20 Jun 2011 18:12:59 +0200
+
+libmsgbuff (0.51.0) unstable; urgency=low
+
+  * Invalid AC_INIT directive fix up
+  * License moved to LGPL-2
+  * Macros fix up
+  * Configuration variable FORCE_STDERR removed
+
+ -- Rodolfo Giometti <giometti@linux.it>  Tue, 22 Feb 2011 15:52:13 +0100
+
+libmsgbuff (0.50.0) unstable; urgency=low
+
+  * Initial import
+
+ -- Rodolfo Giometti <giometti@linux.it>  Mon, 22 Mar 2010 16:19:37 +0100
